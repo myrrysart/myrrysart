@@ -11,8 +11,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myrrysart&theme=synthwave&hide_border=false" height="150" alt="coding streak statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myrrysart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=myrrysart&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myrrysart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=myrrysart&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myrrysart&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="650" src="https://myrrysart.github.io/thumb_oil_squeezeSipAndGrindFramed.jpg"  />
 </div>
 
 ###
