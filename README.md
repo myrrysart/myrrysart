@@ -25,12 +25,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="650" src="https://myrrysart.github.io/analog_anatomyStudy.jpeg"  />
-</div>
-
-###
 <!--
 **myrrysart/myrrysart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
