@@ -17,10 +17,6 @@
 
 ###
 
-<div align="center">
-  <img height="650" src="https://myrrysart.github.io/thumb_oil_squeezeSipAndGrindFramed.jpg"  />
-</div>
-
 ###
 <!--
 **myrrysart/myrrysart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
